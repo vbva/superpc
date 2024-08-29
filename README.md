@@ -1,7 +1,6 @@
 ![some info about project](Sirius_2024_OpenMP_MPI_Diffusion_eq-01.png)
 ![](Sirius_2024_OpenMP_MPI_Diffusion_eq-02.png)
 ![](Sirius_2024_OpenMP_MPI_Diffusion_eq-03.png)
-![](Sirius_2024_OpenMP_MPI_Diffusion_eq-03.png)
 ![](Sirius_2024_OpenMP_MPI_Diffusion_eq-04.png)
 ![](Sirius_2024_OpenMP_MPI_Diffusion_eq-05.png)
 ![](Sirius_2024_OpenMP_MPI_Diffusion_eq-06.png)
